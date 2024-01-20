@@ -14,3 +14,6 @@
 ```bash
 javac Fibonacci.java
 java Fibonacci
+````
+<hr>
+<p align="right">marely</p>
